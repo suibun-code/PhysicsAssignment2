@@ -1,0 +1,251 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_widgets.cpp
+  imgui_sdl.cpp
+  CollisionManager.cpp
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\CollisionManager.cpp(7,15): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\CollisionManager.cpp(7,15): warning C4244:         with
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\CollisionManager.cpp(7,15): warning C4244:         [
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\CollisionManager.cpp(7,15): warning C4244:             T=float
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\CollisionManager.cpp(7,15): warning C4244:         ]
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\CollisionManager.cpp(8,15): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\CollisionManager.cpp(8,15): warning C4244:         with
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\CollisionManager.cpp(8,15): warning C4244:         [
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\CollisionManager.cpp(8,15): warning C4244:             T=float
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\CollisionManager.cpp(8,15): warning C4244:         ]
+  DisplayObject.cpp
+  EndScene.cpp
+  FontManager.cpp
+  Game.cpp
+  GameObject.cpp
+  Label.cpp
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\CollisionManager.cpp(18,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Label.cpp(16,15): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Label.cpp(16,15): warning C4244:         with
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Label.cpp(16,15): warning C4244:         [
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Label.cpp(16,15): warning C4244:             T=float
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Label.cpp(16,15): warning C4244:         ]
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Label.cpp(17,16): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Label.cpp(17,16): warning C4244:         with
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Label.cpp(17,16): warning C4244:         [
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Label.cpp(17,16): warning C4244:             T=float
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Label.cpp(17,16): warning C4244:         ]
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Label.cpp(28,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Label.cpp(28,17): warning C4244:         with
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Label.cpp(28,17): warning C4244:         [
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Label.cpp(28,17): warning C4244:             T=float
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Label.cpp(28,17): warning C4244:         ]
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Label.cpp(29,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Label.cpp(29,17): warning C4244:         with
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Label.cpp(29,17): warning C4244:         [
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Label.cpp(29,17): warning C4244:             T=float
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Label.cpp(29,17): warning C4244:         ]
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Label.cpp(54,15): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Label.cpp(54,15): warning C4244:         with
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Label.cpp(54,15): warning C4244:         [
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Label.cpp(54,15): warning C4244:             T=float
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Label.cpp(54,15): warning C4244:         ]
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Label.cpp(55,16): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Label.cpp(55,16): warning C4244:         with
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Label.cpp(55,16): warning C4244:         [
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Label.cpp(55,16): warning C4244:             T=float
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Label.cpp(55,16): warning C4244:         ]
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Label.cpp(75,15): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Label.cpp(75,15): warning C4244:         with
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Label.cpp(75,15): warning C4244:         [
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Label.cpp(75,15): warning C4244:             T=float
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Label.cpp(75,15): warning C4244:         ]
+  main.cpp
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Label.cpp(76,16): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Label.cpp(76,16): warning C4244:         with
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Label.cpp(76,16): warning C4244:         [
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Label.cpp(76,16): warning C4244:             T=float
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Label.cpp(76,16): warning C4244:         ]
+  Mine.cpp
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\main.cpp(28,32): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Mine.cpp(11,15): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Mine.cpp(11,15): warning C4244:         with
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Mine.cpp(11,15): warning C4244:         [
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Mine.cpp(11,15): warning C4244:             T=float
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Mine.cpp(11,15): warning C4244:         ]
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Mine.cpp(12,16): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Mine.cpp(12,16): warning C4244:         with
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Mine.cpp(12,16): warning C4244:         [
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Mine.cpp(12,16): warning C4244:             T=float
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Mine.cpp(12,16): warning C4244:         ]
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Mine.cpp(24,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Mine.cpp(24,17): warning C4244:         with
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Mine.cpp(24,17): warning C4244:         [
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Mine.cpp(24,17): warning C4244:             T=float
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Mine.cpp(24,17): warning C4244:         ]
+  Planet.cpp
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Mine.cpp(25,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Mine.cpp(25,17): warning C4244:         with
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Mine.cpp(25,17): warning C4244:         [
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Mine.cpp(25,17): warning C4244:             T=float
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Mine.cpp(25,17): warning C4244:         ]
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Planet.cpp(11,15): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Planet.cpp(11,15): warning C4244:         with
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Planet.cpp(11,15): warning C4244:         [
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Planet.cpp(11,15): warning C4244:             T=float
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Planet.cpp(11,15): warning C4244:         ]
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Planet.cpp(12,16): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Planet.cpp(12,16): warning C4244:         with
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Planet.cpp(12,16): warning C4244:         [
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Planet.cpp(12,16): warning C4244:             T=float
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Planet.cpp(12,16): warning C4244:         ]
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Planet.cpp(24,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Planet.cpp(24,17): warning C4244:         with
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Planet.cpp(24,17): warning C4244:         [
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Planet.cpp(24,17): warning C4244:             T=float
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Planet.cpp(24,17): warning C4244:         ]
+  PlayScene.cpp
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Planet.cpp(25,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Planet.cpp(25,17): warning C4244:         with
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Planet.cpp(25,17): warning C4244:         [
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Planet.cpp(25,17): warning C4244:             T=float
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Planet.cpp(25,17): warning C4244:         ]
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\PlayScene.cpp(36,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\PlayScene.cpp(38,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\PlayScene.cpp(214,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\PlayScene.cpp(310,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\PlayScene.cpp(312,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\PlayScene.cpp(354,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\PlayScene.cpp(356,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\PlayScene.cpp(371,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\PlayScene.cpp(373,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\PlayScene.cpp(382,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\PlayScene.cpp(384,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\PlayScene.cpp(570,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\PlayScene.cpp(572,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\PlayScene.cpp(585,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\PlayScene.cpp(587,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\PlayScene.cpp(600,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\PlayScene.cpp(602,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\PlayScene.cpp(841,36): warning C4244: '=': conversion from 'Sint32' to 'T', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\PlayScene.cpp(841,36): warning C4244:         with
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\PlayScene.cpp(841,36): warning C4244:         [
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\PlayScene.cpp(841,36): warning C4244:             T=float
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\PlayScene.cpp(841,36): warning C4244:         ]
+  Scene.cpp
+  ship.cpp
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\PlayScene.cpp(842,36): warning C4244: '=': conversion from 'Sint32' to 'T', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\PlayScene.cpp(842,36): warning C4244:         with
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\PlayScene.cpp(842,36): warning C4244:         [
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\PlayScene.cpp(842,36): warning C4244:             T=float
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\PlayScene.cpp(842,36): warning C4244:         ]
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\ship.cpp(16,15): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\ship.cpp(16,15): warning C4244:         with
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\ship.cpp(16,15): warning C4244:         [
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\ship.cpp(16,15): warning C4244:             T=float
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\ship.cpp(16,15): warning C4244:         ]
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\ship.cpp(17,16): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\ship.cpp(17,16): warning C4244:         with
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\ship.cpp(17,16): warning C4244:         [
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\ship.cpp(17,16): warning C4244:             T=float
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\ship.cpp(17,16): warning C4244:         ]
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\ship.cpp(33,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\ship.cpp(33,17): warning C4244:         with
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\ship.cpp(33,17): warning C4244:         [
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\ship.cpp(33,17): warning C4244:             T=float
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\ship.cpp(33,17): warning C4244:         ]
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\ship.cpp(34,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\ship.cpp(34,17): warning C4244:         with
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\ship.cpp(34,17): warning C4244:         [
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\ship.cpp(34,17): warning C4244:             T=float
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\ship.cpp(34,17): warning C4244:         ]
+  SoundManager.cpp
+  StartScene.cpp
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\ship.cpp(153,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\StartScene.cpp(79,36): warning C4244: '=': conversion from 'Sint32' to 'T', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\StartScene.cpp(79,36): warning C4244:         with
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\StartScene.cpp(79,36): warning C4244:         [
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\StartScene.cpp(79,36): warning C4244:             T=float
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\StartScene.cpp(79,36): warning C4244:         ]
+  Generating Code...
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\StartScene.cpp(80,36): warning C4244: '=': conversion from 'Sint32' to 'T', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\StartScene.cpp(80,36): warning C4244:         with
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\StartScene.cpp(80,36): warning C4244:         [
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\StartScene.cpp(80,36): warning C4244:             T=float
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\StartScene.cpp(80,36): warning C4244:         ]
+  Compiling...
+  Target.cpp
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\CollisionManager.cpp(47): warning C4715: 'CollisionManager::squaredRadiusCheck': not all control paths return a value
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Target.cpp(10,15): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Target.cpp(10,15): warning C4244:         with
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Target.cpp(10,15): warning C4244:         [
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Target.cpp(10,15): warning C4244:             T=float
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Target.cpp(10,15): warning C4244:         ]
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Target.cpp(11,16): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Target.cpp(11,16): warning C4244:         with
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Target.cpp(11,16): warning C4244:         [
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Target.cpp(11,16): warning C4244:             T=float
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Target.cpp(11,16): warning C4244:         ]
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Target.cpp(24,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Target.cpp(24,17): warning C4244:         with
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Target.cpp(24,17): warning C4244:         [
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Target.cpp(24,17): warning C4244:             T=float
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Target.cpp(24,17): warning C4244:         ]
+  TextureManager.cpp
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Target.cpp(25,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Target.cpp(25,17): warning C4244:         with
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Target.cpp(25,17): warning C4244:         [
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Target.cpp(25,17): warning C4244:             T=float
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Target.cpp(25,17): warning C4244:         ]
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\TextureManager.cpp(65,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\TextureManager.cpp(66,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\TextureManager.cpp(109,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\TextureManager.cpp(110,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\TextureManager.cpp(152,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\TextureManager.cpp(153,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\TextureManager.cpp(196,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\TextureManager.cpp(197,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\TextureManager.cpp(226,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\TextureManager.cpp(227,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\TextureManager.cpp(246,11): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\TextureManager.cpp(246,11): warning C4244:         with
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\TextureManager.cpp(246,11): warning C4244:         [
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\TextureManager.cpp(246,11): warning C4244:             T=float
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\TextureManager.cpp(246,11): warning C4244:         ]
+  Tile.cpp
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\TextureManager.cpp(247,11): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\TextureManager.cpp(247,11): warning C4244:         with
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\TextureManager.cpp(247,11): warning C4244:         [
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\TextureManager.cpp(247,11): warning C4244:             T=float
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\TextureManager.cpp(247,11): warning C4244:         ]
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Tile.cpp(18,15): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Tile.cpp(18,15): warning C4244:         with
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Tile.cpp(18,15): warning C4244:         [
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Tile.cpp(18,15): warning C4244:             T=float
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Tile.cpp(18,15): warning C4244:         ]
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Tile.cpp(19,16): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Tile.cpp(19,16): warning C4244:         with
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Tile.cpp(19,16): warning C4244:         [
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Tile.cpp(19,16): warning C4244:             T=float
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Tile.cpp(19,16): warning C4244:         ]
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Tile.cpp(46,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Tile.cpp(46,17): warning C4244:         with
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Tile.cpp(46,17): warning C4244:         [
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Tile.cpp(46,17): warning C4244:             T=float
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Tile.cpp(46,17): warning C4244:         ]
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Tile.cpp(47,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Tile.cpp(47,17): warning C4244:         with
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Tile.cpp(47,17): warning C4244:         [
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Tile.cpp(47,17): warning C4244:             T=float
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Tile.cpp(47,17): warning C4244:         ]
+  Util.cpp
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Tile.cpp(173,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Util.cpp(223,15): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Util.cpp(223,15): warning C4244:         with
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Util.cpp(223,15): warning C4244:         [
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Util.cpp(223,15): warning C4244:             T=float
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Util.cpp(223,15): warning C4244:         ]
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Util.cpp(224,15): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Util.cpp(224,15): warning C4244:         with
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Util.cpp(224,15): warning C4244:         [
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Util.cpp(224,15): warning C4244:             T=float
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Util.cpp(224,15): warning C4244:         ]
+  Generating Code...
+C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\src\Util.cpp(240,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Template.vcxproj -> C:\Users\Lenin\Desktop\GAME2005_Assignment2_Amiri_Ramin\bin\Debug\Template.exe
